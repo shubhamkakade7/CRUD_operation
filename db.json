@@ -1,40 +1,75 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "name": "arayan hotel 1",
-        "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
-        "email": "sdfaf@gmail.com",
-        "services": "chai , samosa",
-        "mobile": 7845581125
-      },
-      {
-        "id": 2,
-        "name": "selection",
-        "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
-        "email": "selection@abc.com",
-        "services": "chai",
-        "mobile": 78941252511
-      }
-    ],
-    "signup": [
-      {
-        "name": "arayan hotel 1",
-        "email": "sibashish@abc.com",
-        "mobile": 8769145511,
-        "password": "password@123",
-        "id": 1
-      },
-      {
-        "name": "Selection",
-        "email": "selection@abc.com",
-        "mobile": 3164631649,
-        "password": "passowrd@123",
-        "id": 2
-      }
-    ],
-    "comments": [],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "name": "arayan hotel 1",
+      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
+      "email": "sdfaf@gmail.com",
+      "services": "chai , samosa",
+      "mobile": 7845581125
+    },
+    {
+      "id": 2,
+      "name": "selection",
+      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
+      "email": "selection@abc.com",
+      "services": "chai",
+      "mobile": 78941252511
     }
+  ],
+  "signup": [
+    {
+      "name": "arayan hotel 1",
+      "email": "sibashish@abc.com",
+      "mobile": 8769145511,
+      "password": "password@123",
+      "id": 1
+    },
+    {
+      "name": "Selection",
+      "email": "selection@abc.com",
+      "mobile": 3164631649,
+      "password": "passowrd@123",
+      "id": 2
+    },
+    {
+      "name": "dem",
+      "email": "demo@gmail.com",
+      "mobile": 1234567890,
+      "password": "pass@1234",
+      "id": 3
+    },
+    {
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "mobile": 738545305,
+      "password": "Pass@1234",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "mobile": 782379249,
+      "password": "passs1234",
+      "id": 5
+    },
+    {
+      "name": "demo1",
+      "email": "demo1@gmail.com",
+      "mobile": 213254658798,
+      "password": "demo11234",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "mobile": 123456988,
+      "password": "pass1234",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
   }
+}
